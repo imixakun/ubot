@@ -1,7 +1,7 @@
 from telethon import TelegramClient, events, sync
 
 
-api_id = 11111111 # ip_id
+api_id = 11111111 # api_id
 api_hash = 'api hash'
 
 
